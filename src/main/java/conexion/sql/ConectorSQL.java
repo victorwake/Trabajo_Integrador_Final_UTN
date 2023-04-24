@@ -1,4 +1,4 @@
-package org.example.conexion.db;
+package conexion.sql;
 
 public class ConectorSQL {
 
