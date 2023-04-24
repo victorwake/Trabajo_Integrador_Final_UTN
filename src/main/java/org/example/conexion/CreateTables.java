@@ -1,4 +1,4 @@
-package conexion.sql;
+package org.example.conexion;
 
 import java.sql.Connection;
 import java.sql.DriverManager;
@@ -8,7 +8,7 @@ import java.sql.Statement;
 import java.sql.DatabaseMetaData;
 
 
-import static conexion.sql.ConectorSQL.*;
+import static org.example.conexion.ConectorSQL.*;
 
 public class CreateTables {
 

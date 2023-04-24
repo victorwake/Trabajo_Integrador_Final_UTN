@@ -1,6 +1,6 @@
 package org.example;
 
-import conexion.sql.CreateTables;
+import org.example.conexion.CreateTables;
 
 public class Main {
 
